@@ -1,4 +1,4 @@
-# nd2-Token
+# nd2 Token [ND2]
 ***A gratitude token for our collaborators.***
 
 The nd2 project wants to reward all contributions with a gratitude token. The projects that are waiting for our technical solution are very keen to boosting community support to finish it as soon as possible. For this reason, some of them have made us a promise that will be able to generate value to these tokens and that they will materialize the day our protocol is running on each of their nodes.
@@ -40,7 +40,7 @@ ND2 tokens are mined as needed. They have been created through a smart contract 
 | Decimals               | 18                                         |
 | Max. Supply            | 21,000,000 ND2                             |
 | Blockchain             | Binance Smart Chain                        |
-| Explorer               | https://bscscan.io                         |
+| Explorer               | https://bscscan.com/                         |
 | Token Contract address | 0x76b0142175661996b0a391fe097ae452bfa1fcb8 |
 | Access type            | Role based                                 |
 | Mintable               | Yes                                        |
@@ -54,7 +54,7 @@ A smart contract to streamline distribution has been created. This will mine and
 | ---------------- | ------------------- |
 | Name             | nd2Gift             |
 | Blockchain       | Binance Smart Chain |
-| Explorer         | https://bscscan.io  |
+| Explorer         | https://bscscan.com/  |
 | Contract address | Not deployed yet..... |
 | Access type      | Owned               |
 | States           | GIVING \| PAUSED \| Completed |
