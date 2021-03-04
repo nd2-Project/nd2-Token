@@ -102,3 +102,21 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Secret files | Please view secrets_example.json for reference.
+secrets.json
+
+# truffle build directory
+/build
+
+# binary output directory
+/bin/contracts
+
+# truffle
+.node-xmlhttprequest-*
+
+# npm package
+package-lock.json
+
+#References
+/references

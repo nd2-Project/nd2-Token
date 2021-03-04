@@ -1,0 +1,31 @@
+{
+  "name": "nd2-Token",
+  "version": "1.0.0",
+  "description": "A gratitude token for our collaborators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nd2-Project/nd2-Token.git"
+  },
+  "keywords": [],
+  "author": "Fabio Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nd2-Project/nd2-Token/issues"
+  },
+  "homepage": "https://github.com/nd2-Project/nd2-Token#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "ganache-cli": "^6.12.2"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.1.6"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
