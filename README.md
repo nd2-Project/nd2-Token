@@ -14,7 +14,7 @@ We will create a great solution based on blockchain technology for the gambling 
 2. Creating your own lottery so that all ND2 holders can bet safely while you get great returns. (Q3 - 2021)
 3. Providing liquidity and backing to the launched lotteries and obtaining profit for it. (Q3 - 2021)
 
-> We will swap your ND2s for our native cryptocurrency during the initial coin offering (ICO) stage. The value of each ND2 will be considered as the equivalent of ~USD$10 at the time of exchange. A maximum of 10 million (1% of the total issued) of native coins will be swaped.
+> We will swap your ND2s for our native cryptocurrency during the initial coin offering (ICO) stage. The value of each ND2 will be considered as the equivalent of ~USD$1 at the time of exchange. A maximum of 10 million (1% of the total issued) of native coins will be swaped.
 
 See more about *WagerChain - Incorruptibe* at: https://wagerchain.org
 
@@ -24,7 +24,7 @@ PreXta will handle a native cryptocurrency and some stablecoin. We will provide 
 
 We only hope for a secure and efficient blockchain that allows fast micropayments at low fees. We wait for FPoS.
 
-> Your ND2 tokens will be accepted as payment value in our ICO. A portion of the issuance is allocated to this swap as a contribution to the development of the technology we need. Your ND2 tokens will be accepted for ~USD$10 each at our ICO stage.
+> Your ND2 tokens will be accepted as payment value in our ICO. A portion of the issuance is allocated to this swap as a contribution to the development of the technology we need. Your ND2 tokens will be accepted for ~USD$1 each at our ICO stage.
 
 See more about *PreXta - La evolución del crédito* at: https://prexta.credit
 
